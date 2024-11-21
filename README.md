@@ -1,7 +1,7 @@
 # Medium Access Control with Unet3.4.0
  
 
-- [XXXX](templates/) : templates for creating various Unet components
+- [XXXX] : Main folder
     - [Latency] :   A Unet Agent for saving tx and rx status
     - [xxxxMAC] :   A Unet Agent describing the mac protocol
     - [TestCaseSim]   : runable file for discrete simulation
